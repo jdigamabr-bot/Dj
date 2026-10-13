@@ -1,2 +1,0 @@
-# Dj
-My personal website 
